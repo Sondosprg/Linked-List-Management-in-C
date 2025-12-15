@@ -1,7 +1,6 @@
 
  ***Linked List Management in C***     
 
-
 ---
 
 ## Description
